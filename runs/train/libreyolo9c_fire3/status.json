@@ -1,0 +1,24 @@
+{
+  "best_epoch": 70,
+  "best_metric": 0.13094649905480377,
+  "checkpoints": {
+    "best": "runs/train/libreyolo9c_fire3/weights/best.pt",
+    "last": "runs/train/libreyolo9c_fire3/weights/last.pt"
+  },
+  "completed_epochs": 80,
+  "elapsed_seconds": 7235.042,
+  "model_family": "yolo9",
+  "model_size": "c",
+  "pid": 7135,
+  "progress": 1.0,
+  "save_dir": "runs/train/libreyolo9c_fire3",
+  "schema_version": 1,
+  "start_epoch": 1,
+  "started_at": "2026-09-11T09:48:15+00:00",
+  "state": "completed",
+  "task": "detect",
+  "total_epochs": 80,
+  "total_seconds": 7235.875288009644,
+  "train_loss": 5.226142525672913,
+  "updated_at": "2026-09-11T11:48:51+00:00"
+}

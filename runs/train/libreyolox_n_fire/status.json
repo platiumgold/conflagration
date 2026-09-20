@@ -1,0 +1,24 @@
+{
+  "best_epoch": 42,
+  "best_metric": 0.11868079200205421,
+  "checkpoints": {
+    "best": "runs/train/libreyolox_n_fire/weights/best.pt",
+    "last": "runs/train/libreyolox_n_fire/weights/last.pt"
+  },
+  "completed_epochs": 57,
+  "elapsed_seconds": 1134.762,
+  "model_family": "yolox",
+  "model_size": "n",
+  "pid": 24801,
+  "progress": 0.7125,
+  "save_dir": "runs/train/libreyolox_n_fire",
+  "schema_version": 1,
+  "start_epoch": 1,
+  "started_at": "2026-09-11T08:27:48+00:00",
+  "state": "completed",
+  "task": "detect",
+  "total_epochs": 80,
+  "total_seconds": 1135.5981769561768,
+  "train_loss": 5.608209734377653,
+  "updated_at": "2026-09-11T08:46:42+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "best_epoch": null,
+  "best_metric": null,
+  "checkpoints": {
+    "best": null,
+    "last": "runs/train/dfine_l_fire/weights/last.pt"
+  },
+  "completed_epochs": 60,
+  "elapsed_seconds": 10363.897,
+  "model_family": "dfine",
+  "model_size": "l",
+  "pid": 98759,
+  "progress": 1.0,
+  "save_dir": "runs/train/dfine_l_fire",
+  "schema_version": 1,
+  "start_epoch": 1,
+  "started_at": "2026-09-15T20:15:09+00:00",
+  "state": "completed",
+  "task": "detect",
+  "total_epochs": 60,
+  "total_seconds": 10364.801260948181,
+  "train_loss": 25.02696218771519,
+  "updated_at": "2026-09-15T23:07:53+00:00"
+}

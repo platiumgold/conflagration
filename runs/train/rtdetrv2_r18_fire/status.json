@@ -1,0 +1,24 @@
+{
+  "best_epoch": 9,
+  "best_metric": 0.13672302727894667,
+  "checkpoints": {
+    "best": "runs/train/rtdetrv2_r18_fire/weights/best.pt",
+    "last": "runs/train/rtdetrv2_r18_fire/weights/last.pt"
+  },
+  "completed_epochs": 80,
+  "elapsed_seconds": 3642.253,
+  "model_family": "rtdetrv2",
+  "model_size": "r18",
+  "pid": 3376,
+  "progress": 1.0,
+  "save_dir": "runs/train/rtdetrv2_r18_fire",
+  "schema_version": 1,
+  "start_epoch": 1,
+  "started_at": "2026-09-14T19:50:19+00:00",
+  "state": "completed",
+  "task": "detect",
+  "total_epochs": 80,
+  "total_seconds": 3642.919900894165,
+  "train_loss": 4.2892225410627285,
+  "updated_at": "2026-09-14T20:51:01+00:00"
+}
